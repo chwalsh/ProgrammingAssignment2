@@ -1,3 +1,4 @@
+## These functions cache the inverse of a matrix so it can be retrieved 
 ## when needed if no changes to the input matrix have been made.
 
 ## This function creates a special "matrix" object that can cache its inverse.
